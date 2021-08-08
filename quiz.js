@@ -2,7 +2,7 @@ const quizForm = document.querySelector(".quiz-form");
 const outputDiv = document.querySelector(".output-div");
 const submitButton = document.querySelector(".submit-button");
 
-const correctAnswers = ["Yes", "No"];
+const correctAnswers = ["Yes", "3","180","True","True"];
 
 function checkResponse(){
     const formResults = new FormData(quizForm);
