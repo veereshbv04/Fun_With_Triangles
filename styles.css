@@ -59,10 +59,16 @@ input{
     font-family: sans-serif;
     font-weight: bold;
     font-size: 1.5em;
+    padding-top: 1em;
 
 }
 
-
+.question-div{
+    text-align: left;
+    background-color:rgb(236, 238, 98);
+    padding-left: 1em;
+    border-radius: 00.5em;
+}
 
 button{
     background-color: orange;
@@ -78,3 +84,4 @@ button{
     margin-top: 3em;
     cursor: pointer;
 }
+
