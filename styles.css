@@ -14,7 +14,7 @@ body{
     margin: auto;
     text-align: center;
     padding: 2em;
-    margin-top: 5em;
+    /* margin-top: 5em; */
     border-radius: 1em;
     color: saddlebrown;
 }
@@ -52,6 +52,9 @@ input{
     color: purple;
     width: fit-content;
     margin: 1em;
+}
+h1{
+    color: rgba(243, 12, 101, 0.651);
 }
 
 .output-div{
