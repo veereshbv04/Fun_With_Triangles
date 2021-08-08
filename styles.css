@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+
+body{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: large;
+    font-weight: bold;
+}
+
+.container{
+    width: 60%;
+    height:auto;
+    background-color: aqua;
+    align-items: center;
+    margin: auto;
+    text-align: center;
+    padding: 2em;
+    margin-top: 5em;
+    border-radius: 1em;
+    color: saddlebrown;
+}
+
+.container  .container-div{
+    background-color: orange;
+    text-align: center;
+    align-items: center;
+    width: inherit;
+    margin: auto;
+    border-radius: 0.5em;
+    color: purple;
+
+}
+
+
+a{
+    width: inherit;
+    cursor: pointer;
+}
+
+footer{
+    margin: auto;
+    text-align: center;
+}
