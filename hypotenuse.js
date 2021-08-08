@@ -12,7 +12,7 @@ function checkHypotenuse(){
     const hypotenuse = Math.sqrt(sum_of_squares);
     outPutDiv.innerText = ` Length of Hypotenuse is ${hypotenuse}`;
 
-    console.log("hh");
+    
 
     
 }
